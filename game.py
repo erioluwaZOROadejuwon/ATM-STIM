@@ -94,6 +94,7 @@ def player4_data():
         
         
 while True:
+    #The programs loop starts from here and it make sure the program runs at five times
     player1_roll = random.randint(1,6)
     player2_roll = random.randint(1,6)
     player3_roll = random.randint(1,6)
